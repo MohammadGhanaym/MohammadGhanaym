@@ -35,7 +35,7 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
   
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohammadghanaym)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadGhanaym&theme=default)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadghanaym&layout=compact&theme=default)
 
