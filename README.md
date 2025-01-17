@@ -18,12 +18,21 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 
 ## 📊 Data Science Projects  
 
-### **Analyzing a 27% Churn Rate in Databel**  
+### 1. **Analyzing a 27% Churn Rate in Databel**  
 - **Objective**: Assisted Databel in identifying the most common reasons for customer churn to develop strategies for retaining customers with similar characteristics in the future.  
 - **Key Insight**: The category driving the highest percentage of churn is **Competitor**.  
-- **Technologies Used**: Excel.  
+- **Skills Used**:  
+  - Excel (Pivot Tables, Data Cleaning, Calculated Columns).  
+  - Exploratory Data Analysis (EDA).  
+  - Data Visualization and Reporting.  
 - **Project Link**: [Check it out here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyzing%20Customer%20Churn)  
 
+### 2. **A/B Testing Analysis: Evaluating the Impact of a New Treatment Page on Conversion Rates**  
+- **Objective**: Analyzed the results of an A/B test conducted by an e-commerce website to determine whether the new treatment page led to higher conversion rates than the old page. The goal was to recommend whether to implement the new page, keep the old page, or extend the experiment duration.  
+- **Key Insight**: There is insufficient evidence to conclude that the new page conversion rate is better than the old page conversion rate.  
+- **Skills Used**: Python, Probability, A/B Testing, Logistic Regression.  
+- **Project Link**: [Check it out here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyze_ab_test_results)  
+  
 ## 📈 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohammadghanaym)](https://git.io/streak-stats)
 
