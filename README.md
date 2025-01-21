@@ -34,15 +34,10 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 - **Project Link**: [Check it out here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyze_ab_test_results)  
   
 ## 📈 GitHub Stats
-
-[![MohammadGhanaym's GitHub | Stats](https://stats.quine.sh/MohammadGhanaym/github?theme=light)](https://quine.sh)
-
-[![GitHub Streak](https://streak-stats-dvjr8qofb-mohammadghanayms-projects.vercel.app?user=MohammadGhanaym)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats-git-main-mohammadghanayms-projects.vercel.app?user=MohammadGhanaym)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadghanaym&layout=compact)
 
-## 🔥 Github Streak
-<img src="https://d3frb2mbny706b.cloudfront.net/MohammadGhanaym?theme=dark&color=ff0000" width="600">
 
 ## 📫 Connect with Me
 <p align="left">
