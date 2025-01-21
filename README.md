@@ -39,6 +39,9 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadghanaym&layout=compact)
 
+## 🔥 Github Streak
+<img src="https://d3frb2mbny706b.cloudfront.net/MohammadGhanaym?theme=dark&color=ff0000" width="600">
+
 ## 📫 Connect with Me
 <p align="left">
 <a href="https://www.freelancer.com/u/MohammadGhanaym" target="blank"><img align="center" src="https://www.f-cdn.com/assets/main/en/assets/freelancer-logo-light.svg" alt="your_username" height="30" width="40" /></a>
