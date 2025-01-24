@@ -11,10 +11,10 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 
 ## 💼 Technical Skills  
 - **Programming Languages**: Python  
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Excel, Power Query, Power Pivot  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Excel, Power Query, Power Pivot, Data Wrangling, Data Visualization, Hypothesis Testing, A/B Testing  
 - **Version Control**: Git  
-- **Currently Learning**: Practical Statistics, Probability, and Advanced Data Visualization using Python  
-- **Future Learning Goals**: Database Design, Microsoft SQL Server, Power BI  
+- **Currently Learning**: Database Design, Microsoft SQL Server, and Advanced Data Visualization using Python  
+- **Future Learning Goals**: Power BI and Tableau  
 
 ## 📊 Data Science Projects  
 
