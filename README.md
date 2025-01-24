@@ -25,14 +25,17 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
   - Excel (Pivot Tables, Data Cleaning, Calculated Columns).  
   - Exploratory Data Analysis (EDA).  
   - Data Visualization and Reporting.  
-- **Project Link**: [Check it out here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyzing%20Customer%20Churn)  
+- **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyzing%20Customer%20Churn)  
 
 ### 2. **A/B Testing Analysis: Evaluating the Impact of a New Treatment Page on Conversion Rates**  
 - **Objective**: Analyzed the results of an A/B test conducted by an e-commerce website to determine whether the new treatment page led to higher conversion rates than the old page. The goal was to recommend whether to implement the new page, keep the old page, or extend the experiment duration.  
 - **Key Insight**: There is insufficient evidence to conclude that the new page conversion rate is better than the old page conversion rate.  
 - **Skills Used**: Python, Probability, A/B Testing, Logistic Regression.  
-- **Project Link**: [Check it out here](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyze_ab_test_results)  
-  
+- **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyze_ab_test_results)  
+
+✨ **Discover More Projects: [Click Here to Explore!](https://github.com/MohammadGhanaym/Data-Analysis-Projects)**
+
+
 ## 📈 GitHub Stats
 [![GitHub Streak](https://streak-stats-git-main-mohammadghanayms-projects.vercel.app?user=MohammadGhanaym)](https://git.io/streak-stats)
 
