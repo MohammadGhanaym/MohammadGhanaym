@@ -10,7 +10,8 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 - Drawing conclusions and communicating results effectively.  
 
 ## 💼 Technical Skills  
-- **Programming Languages**: Python  
+-
+ **Programming Languages**: Python  
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Excel, Power Query, Power Pivot, Data Wrangling, Data Visualization, Hypothesis Testing, A/B Testing  
 - **Version Control**: Git  
 - **Currently Learning**: Database Design, Microsoft SQL Server, and Advanced Data Visualization using Python  
@@ -18,14 +19,14 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 
 ## 📊 Data Science Projects  
 
-### 1. **Analyzing a 27% Churn Rate in Databel**  
-- **Objective**: Assisted Databel in identifying the most common reasons for customer churn to develop strategies for retaining customers with similar characteristics in the future.  
-- **Key Insight**: The category driving the highest percentage of churn is **Competitor**.  
+### 1. **Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities**  
+- **Objective**: In this analysis, I investigated data from a computer hardware company to evaluate the performance of its sales teams and agents. By examining key metrics such as total bookings, average deal size, win rate, and time to close, we can uncover actionable insights to enhance sales performance, minimize lost opportunities, and increase profitability. 
+- **Key Insight**: The company achieved total bookings of approximately $10 million and closed 6,711 deals, with a win rate of 63.15%. This translates to a deal loss rate of approximately 37%. 
 - **Skills Used**:  
-  - Excel (Pivot Tables, Data Cleaning, Calculated Columns).  
+  - Excel (Power Query, Power Pivot, Pivot Tables, DAX, Data Cleaning).  
   - Exploratory Data Analysis (EDA).  
   - Data Visualization and Reporting.  
-- **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyzing%20Customer%20Churn)  
+- **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/CRM%20Sales%20Opportunities%20Analysis)  
 
 ### 2. **A/B Testing Analysis: Evaluating the Impact of a New Treatment Page on Conversion Rates**  
 - **Objective**: Analyzed the results of an A/B test conducted by an e-commerce website to determine whether the new treatment page led to higher conversion rates than the old page. The goal was to recommend whether to implement the new page, keep the old page, or extend the experiment duration.  
