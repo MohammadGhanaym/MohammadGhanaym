@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammad 👋  
 
 ## 🚀 About Me  
-I’m a Junior Data Scientist passionate about transforming data into actionable insights. Currently, I’m focused on honing my skills in **statistical analysis** and **data visualization**, while also working on projects where I leverage **Excel** for data analysis.  
+As a data scientist, I am passionate about transforming raw data into meaningful insights that drive better decision-making. I am constantly developing my skills and have completed various courses to strengthen my expertise in the field. **My ongoing dedication and perseverance paid off when I began working as a freelance data analyst and became a key contributor to my graduation project team, leading my teammates to achieve excellent grades.** I take the initiative when necessary to ensure success and am a fast learner who can quickly grasp concepts and apply them effectively. With strong problem-solving skills, I am adept at overcoming challenges and delivering results.
 
 As a freelance data analyst, I developed expertise in **data analysis** using **Python**. I am proficient in the end-to-end data analysis process, including:  
 - Asking the right questions.  
@@ -10,12 +10,20 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 - Drawing conclusions and communicating results effectively.  
 
 ## 💼 Technical Skills  
--
- **Programming Languages**: Python  
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Excel, Power Query, Power Pivot, Data Wrangling, Data Visualization, Hypothesis Testing, A/B Testing  
-- **Version Control**: Git  
-- **Currently Learning**: Database Design, Microsoft SQL Server, and Advanced Data Visualization using Python  
-- **Future Learning Goals**: Power BI and Tableau  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF9E00?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-007ACC?style=for-the-badge&logo=seaborn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-0072C6?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-0072C6?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0072C6?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-02569B?style=for-the-badge&logo=sql&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-0072C6?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### Descriptive & Inferential Statistics
+Proficient in statistical analysis techniques including descriptive and inferential statistics for data-driven decision making.
 
 ## 📊 Data Science Projects  
 
@@ -30,7 +38,7 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 
 ### 2. **A/B Testing Analysis: Evaluating the Impact of a New Treatment Page on Conversion Rates**  
 - **Objective**: Analyzed the results of an A/B test conducted by an e-commerce website to determine whether the new treatment page led to higher conversion rates than the old page. The goal was to recommend whether to implement the new page, keep the old page, or extend the experiment duration.  
-- **Key Insight**: There is insufficient evidence to conclude that the new page conversion rate is better than the old page conversion rate.  
+- **Key Insight**: There is insufficient evidence to conclude that the new page conversion rate is better than the old one.  
 - **Skills Used**: Python, Probability, A/B Testing, Logistic Regression.  
 - **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyze_ab_test_results)  
 
