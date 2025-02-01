@@ -22,6 +22,7 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 ![SQL](https://img.shields.io/badge/SQL-02569B?style=for-the-badge&logo=sql&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database%20Design-0072C6?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ### Descriptive & Inferential Statistics
 Proficient in statistical analysis techniques including descriptive and inferential statistics for data-driven decision making.
 
