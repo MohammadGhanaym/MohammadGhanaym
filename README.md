@@ -18,7 +18,6 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-2A71B0?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
 ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-00A4EF?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-A91D22?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
