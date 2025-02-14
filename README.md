@@ -21,6 +21,7 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-A91D22?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-034694?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-1D3557?style=for-the-badge&logo=r&logoColor=white)
 
 
