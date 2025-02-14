@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammad 👋  
 
 ## 🚀 About Me  
-As a data scientist, I am passionate about transforming raw data into meaningful insights that drive better decision-making. I am constantly developing my skills and have completed various courses to strengthen my expertise in the field. **My ongoing dedication and perseverance paid off when I began working as a freelance data analyst and became a key contributor to my graduation project team, leading my teammates to achieve excellent grades.** I take the initiative when necessary to ensure success and am a fast learner who can quickly grasp concepts and apply them effectively. With strong problem-solving skills, I am adept at overcoming challenges and delivering results.
+As a data analyst, I am passionate about transforming raw data into meaningful insights that drive better decision-making. I am constantly developing my skills and have completed various courses to strengthen my expertise in the field. **My ongoing dedication and perseverance paid off when I began working as a freelance data analyst and became a key contributor to my graduation project team, leading my teammates to achieve excellent grades.** I take the initiative when necessary to ensure success and am a fast learner who can quickly grasp concepts and apply them effectively. With strong problem-solving skills, I am adept at overcoming challenges and delivering results.
 
 As a freelance data analyst, I developed expertise in **data analysis** using **Python**. I am proficient in the end-to-end data analysis process, including:  
 - Asking the right questions.  
@@ -25,7 +25,7 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-1D3557?style=for-the-badge&logo=r&logoColor=white)
 
 
-## 📊 Data Science Projects  
+## 📊 Key Projects
 
 ### 1. **Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities**  
 - **Objective**: In this analysis, I investigated data from a computer hardware company to evaluate the performance of its sales teams and agents. By examining key metrics such as total bookings, average deal size, win rate, and time to close, we can uncover actionable insights to enhance sales performance, minimize lost opportunities, and increase profitability. 
