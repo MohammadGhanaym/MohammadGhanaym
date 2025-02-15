@@ -46,7 +46,7 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats-git-main-mohammadghanayms-projects.vercel.app?user=MohammadGhanaym)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats-git-dependabot-co-37a738-mohammadghanayms-projects.vercel.app?user=MohammadGhanaym)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadghanaym&layout=compact)
 ## ⭐ Clients Reviews
