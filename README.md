@@ -27,7 +27,17 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 
 ## 📊 Key Projects
 
-### 1. **Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities**  
+### 1. **E-commerce Analytics: Sales, Customer Behavior & Marketing Insights**  
+- **Objective**: For this project, I analyzed product category performance, customer behavior, and logistics efficiency for the e-commerce platform Olist Store. I also extended my analysis to assess marketing funnel performance and sales reps' effectiveness.  
+- **Key Insight**: Only 3% of orders are not delivered, while 10.9% are delivered late.  
+- **Skills Used**:  
+  - Python (Pandas, NumPy, Matplotlib, Seaborn)  
+  - Descriptive Statistics  
+  - Exploratory Data Analysis (EDA)  
+  - Data Visualization and Reporting  
+- **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyze%20E-commerce%20dataset%20by%20Olist)  
+
+### 2. **Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities**  
 - **Objective**: In this analysis, I investigated data from a computer hardware company to evaluate the performance of its sales teams and agents. By examining key metrics such as total bookings, average deal size, win rate, and time to close, we can uncover actionable insights to enhance sales performance, minimize lost opportunities, and increase profitability. 
 - **Key Insight**: The company achieved total bookings of approximately $10 million and closed 6,711 deals, with a win rate of 63.15%. This translates to a deal loss rate of approximately 37%. 
 - **Skills Used**:  
