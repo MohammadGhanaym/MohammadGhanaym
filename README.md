@@ -11,6 +11,7 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 
 ## 💼 Technical Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -37,14 +38,14 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
   - Data Visualization and Reporting  
 - **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyze%20E-commerce%20dataset%20by%20Olist)  
 
-### 2. **Bridging the Gap: Addressing the 37% Loss in Hardware Opportunities**  
-- **Objective**: In this analysis, I investigated data from a computer hardware company to evaluate the performance of its sales teams and agents. By examining key metrics such as total bookings, average deal size, win rate, and time to close, we can uncover actionable insights to enhance sales performance, minimize lost opportunities, and increase profitability. 
-- **Key Insight**: The company achieved total bookings of approximately $10 million and closed 6,711 deals, with a win rate of 63.15%. This translates to a deal loss rate of approximately 37%. 
+### 2. **Customer Personality Analysis**  
+- **Objective**: In this project, I analyzed the characteristics of a sample of IFood customers who accepted the last campaign offer. I helped them identify customers who are more likely to accept an offer, enabling them to make personalized campaigns to target the right customers and save money.
+- **Key Insight:** The higher the customer's education level, the more likely they are to accept an offer.
 - **Skills Used**:  
   - Excel (Power Query, Power Pivot, Pivot Tables, DAX, Data Cleaning).  
   - Exploratory Data Analysis (EDA).  
   - Data Visualization and Reporting.  
-- **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/CRM%20Sales%20Opportunities%20Analysis)  
+- **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Customer%20Personality%20Analysis)  
 
 ### 2. **A/B Testing Analysis: Evaluating the Impact of a New Treatment Page on Conversion Rates**  
 - **Objective**: Analyzed the results of an A/B test conducted by an e-commerce website to determine whether the new treatment page led to higher conversion rates than the old page. The goal was to recommend whether to implement the new page, keep the old page, or extend the experiment duration.  
