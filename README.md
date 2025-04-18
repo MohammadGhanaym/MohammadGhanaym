@@ -47,11 +47,16 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
   - Data Visualization and Reporting.  
 - **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Customer%20Personality%20Analysis)  
 
-### 2. **A/B Testing Analysis: Evaluating the Impact of a New Treatment Page on Conversion Rates**  
-- **Objective**: Analyzed the results of an A/B test conducted by an e-commerce website to determine whether the new treatment page led to higher conversion rates than the old page. The goal was to recommend whether to implement the new page, keep the old page, or extend the experiment duration.  
-- **Key Insight**: There is insufficient evidence to conclude that the new page conversion rate is better than the old one.  
-- **Skills Used**: Python, Probability, A/B Testing, Logistic Regression.  
-- **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Analyze_ab_test_results)  
+### 2. **Supermarket Sales Analysis in Python**  
+- **Objective**: Analyzed branch performance, revenue trends, product line ratings per branch, and the impact of customer type on revenue.
+- **Key Insight**: The Naypyitaw branch shows slightly higher revenue than the other branches. However, the overlapping confidence intervals suggest that this difference may not be statistically significant, meaning we cannot confidently generalize this trend beyond the observed data. 
+- **Skills Used**:  
+  - Python (Pandas, NumPy, Matplotlib, Seaborn)  
+  - Descriptive Statistics  
+  - Exploratory Data Analysis (EDA)  
+  - Data Visualization and Reporting
+  - Data Storytelling
+- **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Supermarket%20Sales%20Analysis%20in%20Python)  
 
 ✨ **Discover More Projects: [Click Here to Explore!](https://github.com/MohammadGhanaym/Data-Analysis-Projects)**
 
