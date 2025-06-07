@@ -27,7 +27,23 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 
 
 ## 📊 Key Projects
-### 1. **Supply Chain Analysis in Power BI**  
+### 1. **Addressing HR Workforce Challenges**  
+- **Objective**: In this project, we analyzed HR data to help the company reduce the resignation rate and workload, and manage HR effectively to increase productivity and employee satisfaction.
+
+- **Key Insight**: Out of 300 employees in the company, 33% are active, 33% are on leave, and 34% have resigned. The overall employee shortage rate is 60%. Projects with a higher employee shortage rate have a heavier workload and, consequently, a higher resignation rate.
+
+- **Skills Used**:  
+  - Power BI (Power Query, DAX)
+  - Descriptive Statistics
+  - What-if Scenario
+  - Dashboard Design
+  - Data Modeling
+  - Exploratory Data Analysis (EDA)
+  - Data Visualization and Reporting
+  - Data Storytelling
+- **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Addressing%20HR%20Workforce%20Challenges)
+---
+### 2. **Supply Chain Analysis in Power BI**  
 - **Objective**: In this project, we will analyze supply chain data to optimize shipping operations and enhance the customer delivery experience. Our analysis will focus on shipping performance and timeliness, customer delivery behavior across regions, and the relationship between sales performance and shipping efficiency.
 - **Key Insight**: 54.78% of orders were delivered late. Furthermore, we investigated whether late deliveries result in low profit, but found no patterns to support that. On the contrary, countries with a high or moderate percentage of late orders often generate high profit, likely due to the high volume of orders delivered to those regions.
 - **Skills Used**:  
@@ -40,7 +56,7 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
   - Data Storytelling
 - **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Supply%20Chain%20Analysis%20in%20Power%20BI)
 ---
-### 1. **Supermarket Sales Analysis in Python**  
+### 3. **Supermarket Sales Analysis in Python**  
 - **Objective**: Analyzed branch performance, revenue trends, product line ratings per branch, and the impact of customer type on revenue.
 - **Key Insight**: The Naypyitaw branch shows slightly higher revenue than the other branches. However, the overlapping confidence intervals suggest that this difference may not be statistically significant, meaning we cannot confidently generalize this trend beyond the observed data. 
 - **Skills Used**:  
@@ -51,7 +67,7 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
   - Data Storytelling
 - **Project Link**: [View the Project](https://github.com/MohammadGhanaym/Data-Analysis-Projects/tree/main/Supermarket%20Sales%20Analysis%20in%20Python)  
 ---
-### 2. **Customer Personality Analysis**  
+### 4. **Customer Personality Analysis**  
 - **Objective**: In this project, I analyzed the characteristics of a sample of IFood customers who accepted the last campaign offer. I helped them identify customers who are more likely to accept an offer, enabling them to make personalized campaigns to target the right customers and save money.
 - **Key Insight:** The higher the customer's education level, the more likely they are to accept an offer.
 - **Skills Used**:  
