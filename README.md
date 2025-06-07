@@ -29,7 +29,7 @@ As a freelance data analyst, I developed expertise in **data analysis** using **
 
 ## 📊 Key Projects
 ### 1. **Addressing HR Workforce Challenges**  
-- **Objective**: In this project, we analyzed HR data to help the company reduce the resignation rate and workload, and manage HR effectively to increase productivity and employee satisfaction.
+- **Objective**: In this project, we analyzed HR data to help the company reduce the resignation rate by effectively managing HR to enhance productivity and employee satisfaction.
 
 - **Key Insight**: Out of 300 employees in the company, 33% are active, 33% are on leave, and 34% have resigned. The overall employee shortage rate is 60%. Projects with a higher employee shortage rate have a heavier workload and, consequently, a higher resignation rate.
 
