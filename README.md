@@ -1,7 +1,8 @@
 # Hi there, I'm Mohammad 👋  
 
 ## 🚀 About Me  
-As a data analyst, I am passionate about transforming raw data into meaningful insights that drive better decision-making. I am constantly developing my skills and have completed various courses to strengthen my expertise in the field. **My ongoing dedication and perseverance paid off when I began working as a freelance data analyst and became a key contributor to my graduation project team, leading my teammates to achieve excellent grades.** I take the initiative when necessary to ensure success and am a fast learner who can quickly grasp concepts and apply them effectively. With strong problem-solving skills, I am adept at overcoming challenges and delivering results.
+As a data analyst, I am passionate about transforming raw data into meaningful insights that drive better decision-making. I am constantly developing my skills and have completed various courses to strengthen my expertise in the field. 
+My dedication and perseverance led me to work as a freelance data analyst, where I gained valuable experience working with real-world datasets. Freelancing has helped me discover my strengths, especially my ability to meet deadlines, adapt quickly, and learn new tools or techniques when needed. I successfully picked up new skills mid-way in several projects and applied them effectively to deliver meaningful results.
 
 As a freelance data analyst, I developed expertise in **data analysis** using **Python**. I am proficient in the end-to-end data analysis process, including:  
 - Asking the right questions.  
